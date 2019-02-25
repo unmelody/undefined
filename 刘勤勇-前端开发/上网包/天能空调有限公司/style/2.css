@@ -1,0 +1,101 @@
+@charset "utf-8";
+.divzong{border:1px solid none;
+		background:url(../image/2.jpg);
+		background-size:100% 100%;
+		background-repeat:no-repeat;
+		width:100%;
+		height:100%；}
+.divtop{
+		height:65px;
+		border:1px solid none;
+		line-height:65px;
+		background-image:url(../image/ba.png);}
+.divjuzhong{margin:0 auto;
+			height:30px;
+			width:1050px;}
+.span1{font-family:楷体;
+		font-size:35px;}
+.span2{font-size:15px;
+		float:right;
+		padding-right:150px;
+		font-family:楷体;}
+a{text-decoration:none;
+	color:black;}
+a:hover{color:blue;}
+.ul1{list-style-type:none;
+	height:75px;
+	background:#0CF;}
+.ul2{display:none;}
+.a{text-decoration:none;
+		  display:block;
+		  float:left;
+		  width:150px;
+		  height:75px;
+		  line-height:75px;
+		  text-align:center;
+		  color:white;
+		  background:#0FF;
+		  font-size:25px;}
+.a:hover{background: #96C;}
+.ul2{display:none;}
+.li2{margin-left:-41px;
+     display:block;
+      width:150px;
+	  height:35px;
+	  text-align:center;
+	  font:20px "楷体";
+	 list-style-type:none;
+	  background:green;
+	  border:1px solid black;
+	  line-height:35px;}
+.li2:hover{background:#06F;}
+.a:hover .ul2{display:inline-block;}
+.imglogo{width:100px;
+		height:65px;
+		float:left;
+		padding-left:150px;}
+.divdaohang{height:100px;
+			border:1px solid none;
+			width:1050px;
+			margin-left:22%;}
+.divneirong{border:1px solid none;
+			width:1050px;
+			height:1280px;
+			position:relative;
+			left:22%;}
+.divfoot{ background-image:url(../image/1.jpg);
+		height:150px;
+		position:relative;
+		top:10px;
+		color:white;
+		text-align:center;}
+.img1{float:left;}
+.img2{float:right;}
+.divtable{ margin-left:450px;
+			width:250px;
+			height:240px;
+		border:1px solid none;}
+.divtable1{margin-left:900px;
+			border:1px solid none;
+			width:275px;
+			height:240px;
+			position:absolute;
+			top:170px;
+			right:40px;}
+.divkongtiao1{border:1px solid none;
+			 width:1050px;
+			 height:425px;}
+.divlb{width:250px;
+		height:400px;
+		margin-left:450px;
+		border:1px solid none;
+		position:relative;}
+.divlb2{width:320px;
+		height:410px;
+		border:1px solid none;
+		position:absolute;
+		bottom:12px;
+		right:10px;}
+p{text-indent:2em;}
+/* CSS Document */
+
